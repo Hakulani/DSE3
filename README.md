@@ -24,8 +24,8 @@ Tools: Jupyter / JupyterLab, GitHub, R Studio, and Watson Studio
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc. 
 
 <h3>Install</h3>
-```
 
+```
 !pip install requests
 !pip install beautifulsoup4
 !pip install starfishX --upgrade
@@ -65,9 +65,7 @@ Real Invesment buy and hold stock 1 week
 
 5.Final Project  Chatbot AI
 
-
 <h5>License</h5>
-
- Copyright © 2021 Witsarut Wongsim   
+Copyright © 2021 Witsarut Wongsim   
 
 
