@@ -1,5 +1,10 @@
 
 <h1>Data science essential #3</h1>
+
+Data science is one of the hottest professions of the decade, and the demand for data scientists who can analyze data and communicate results to inform data driven decisions has never been greater. This Professional Certificate from IBM will help anyone interested in pursuing a career in data science or machine learning develop career-relevant skills and experience. 
+
+The program consists of 9 online courses that will provide you with the latest job-ready tools and skills, including open source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning algorithms. You’ll learn data science through hands-on practice in the IBM Cloud using real data science tools and real-world data sets.
+
 <br>หัวข้อที่สอน 8 หัวข้อหลัก</br>
 <br>1.Data Analytics ได้แสดงการวิเคราะห์ผู้สมัคร 400 คน และแบ่งกลุ่ม</br>
 <br>2.Machine Learning ได้อธิบาย concept การใช้ ML ทำนายภาพ และข้อความ</br>
@@ -9,7 +14,7 @@
 <br>6.Contextual & personalise marketing ได้อธิบายการทำการตลาดแบบใหม่ ที่สามารถส่งโฆษณาไปถูกคนถูกเวลา</br>
 <br>7.Recommendation system ได้อธิบายการทำระบบแนะนำสินค้าบริการ</br>
 <br>8.Anomaly & Fraud detection ได้อธิบายการตรวจจับข้อมูลแปลกปลอม</br>
-<br>Line Developer : Chatbot AI with Line Official Account </br>
+<br>9.Line Developer : Chatbot AI with Line Official Account </br>
 
 <h2>Applied Learning Project</h2>
 This Professional Certificate has a strong emphasis on applied learning.  hands-on practical skills with applicability to real jobs, including: 
