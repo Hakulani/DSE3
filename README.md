@@ -23,8 +23,34 @@ Tools: Jupyter / JupyterLab, GitHub, R Studio, and Watson Studio
 
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc. 
 
+<h3>Install</h3>
+```
 
-<h3>Project NoteBook and Meduim Acticles</h3>
+!pip install requests
+!pip install beautifulsoup4
+!pip install starfishX --upgrade
+!pip install pandas-datareader
+!pip install yahoo-finance
+!pip install investpy
+
+```
+```
+import numpy as np
+import pandas as pd
+import requests
+import bs4
+import lxml.etree as xml
+import starfishX as sx
+import pandas_datareader as pdr
+import datetime
+from yahoo_finance import Share
+import matplotlib.pyplot as plt
+%matplotlib inline
+
+```
+
+
+<h4>Project NoteBook and Meduim Acticles</h4>
 
 1.Data Analytic :Customer Segment by RFM 
   [Meduim พิชิตใจลูกค้า จากข้อมูลด้วย RFM- Data Analytics](https://medium.com/botnoi-classroom/%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%B4%E0%B8%95%E0%B9%83%E0%B8%88%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%84%E0%B9%89%E0%B8%B2-%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-rfm-data-analytics-cd4e3f563e86)
@@ -38,3 +64,10 @@ Machine Learning Classiciation : Using Random Forest for predict ESRB game ratin
 Real Invesment buy and hold stock 1 week
 
 5.Final Project  Chatbot AI
+
+
+<h5>License</h5>
+
+ Copyright © 2021 Witsarut Wongsim   
+
+
