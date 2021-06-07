@@ -54,16 +54,16 @@ import matplotlib.pyplot as plt
   
 File Project NoteBook and Read Meduim Acticles</h4>
 
-1.Data Analytic :Customer Segment by RFM 
-  [Meduim พิชิตใจลูกค้า จากข้อมูลด้วย RFM- Data Analytics](https://medium.com/botnoi-classroom/%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%B4%E0%B8%95%E0%B9%83%E0%B8%88%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%84%E0%B9%89%E0%B8%B2-%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-rfm-data-analytics-cd4e3f563e86)
+1.Data Analytic :Customer Segment by RFM</br> 
+ <br>[Meduim พิชิตใจลูกค้า จากข้อมูลด้วย RFM- Data Analytics](https://medium.com/botnoi-classroom/%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%B4%E0%B8%95%E0%B9%83%E0%B8%88%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%84%E0%B9%89%E0%B8%B2-%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-rfm-data-analytics-cd4e3f563e86)
 
 2&3API Prediction model 
 <br>Machine Learning Classiciation : Using Random Forest for predict ESRB game ratin </br>
 
 [Medium รู้ทันเกม ด้วย Machine Learning ……ESRB เรตเกมอันไหนที่เหมาะกับเรา ??](https://medium.com/botnoi-classroom/%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%97%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%81%E0%B8%A1-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-machine-learning-esrb-%E0%B9%80%E0%B8%A3%E0%B8%95%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B9%84%E0%B8%AB%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%A3%E0%B8%B2-89db0adb2cef)
 
-4.Sotck Trend Forcasing : Pick 1 stock from SET100 (Thailand)
-Real Invesment buy and hold stock 1 week
+<br>4.Stock Trend Forecasting : Pick 1 stock from SET100 (Thailand)</br>
+ [Mediumคนจะรวยช่วยไม่ได้ !!! มา Trade หุ้นด้วย Machine Learning กันเถอะ !!!](https://medium.com/botnoi-classroom/%E0%B8%84%E0%B8%99%E0%B8%88%E0%B8%B0%E0%B8%A3%E0%B8%A7%E0%B8%A2%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89-%E0%B8%A1%E0%B8%B2-trade-%E0%B8%AB%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-machine-learning-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%AD%E0%B8%B0-406a8cda2ada)
 
 5.Final Project  Chatbot AI
 
