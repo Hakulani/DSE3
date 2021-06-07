@@ -11,7 +11,15 @@
 <br>8.Anomaly & Fraud detection ได้อธิบายการตรวจจับข้อมูลแปลกปลอม</br>
 <br>Line Developer : Chatbot AI with Line Official Account </br>
 
-<h2>Project NoteBook and Meduim Acticles</h2>
+<h2>Applied Learning Project</h2>
+This Professional Certificate has a strong emphasis on applied learning.  hands-on practical skills with applicability to real jobs, including: 
+
+Tools: Jupyter / JupyterLab, GitHub, R Studio, and Watson Studio 
+
+Libraries: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc. 
+
+
+<h3>Project NoteBook and Meduim Acticles</h3>
 
 1.Data Analytic :Customer Segment by RFM 
   [Meduim พิชิตใจลูกค้า จากข้อมูลด้วย RFM- Data Analytics](https://medium.com/botnoi-classroom/%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%B4%E0%B8%95%E0%B9%83%E0%B8%88%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%84%E0%B9%89%E0%B8%B2-%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-rfm-data-analytics-cd4e3f563e86)
